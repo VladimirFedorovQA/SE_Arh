@@ -4,13 +4,13 @@
     "name" : "tests.test_Profile",
     "children" : [ {
       "name" : "Change user firstname",
-      "uid" : "cf3776dd3ece5e35",
+      "uid" : "9b10949e93961b70",
       "parentUid" : "1e65c1db9ea9e4fadb7b90bbc8cd8840",
       "status" : "passed",
       "time" : {
-        "start" : 1748548603679,
-        "stop" : 1748548610482,
-        "duration" : 6803
+        "start" : 1748548778937,
+        "stop" : 1748548786486,
+        "duration" : 7549
       },
       "flaky" : false,
       "newFailed" : false,
